@@ -25,7 +25,7 @@ SECRET_KEY = '(27w@s%k#%u_!j3wbm+3ti-vt$(qpmq7^i-2b&wt)79slu@p*n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ritomar.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ritomar.pythonanywhere.com']
 
 
 # Application definition
